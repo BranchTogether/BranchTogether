@@ -17,6 +17,8 @@
   <a href="https://github.com/pmalcius" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"> </a>
 </div>
 
+
+
 ##Installation of tools
 1. Install vite
 '''sh npm install vite '''sh
