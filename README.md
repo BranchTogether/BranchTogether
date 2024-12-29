@@ -5,7 +5,7 @@
 </div> 
 <div align="center">  
 
-  [![Production](https://img.shields.io/github/actions/workflow/status/BranchTogether/BranchTogether/prod.yml?branch=main&label=Production&style=for-the-badge)](https://github.com/BranchTogether/BranchTogether/actions/workflows/main.yml)
+  [![Production](https://img.shields.io/github/actions/workflow/status/BranchTogether/BranchTogether/main.yml?branch=main&label=Production&style=for-the-badge)](https://github.com/BranchTogether/BranchTogether/actions/workflows/main.yml)
   </div>
 <h1>Development Team<h1>
 <div>
