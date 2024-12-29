@@ -21,20 +21,20 @@
 
 ## Installation of tools
 1. Install vite
-'''sh
+```sh
 npm install vite
-'''sh
+```
 2. Install node.js
-'''sh
+```sh
 npm install nodejs
-'''sh
+```
 3. ...
-'''sh add future dev tools '''sh
+```sh
+add future dev tools
+```
 
 ## Building and running locally
 1. Navigate to branch and folder
-   '''sh
-   git checkout -main
-   '''sh
+   ```shgit checkout -main```
 2. Run locally
-   '''sh npm run dev '''sh
+   ```sh npm run dev ```
