@@ -19,7 +19,7 @@
 
 
 
-##Installation of tools
+## Installation of tools
 1. Install vite
 '''sh npm install vite '''sh
 2. Install node.js
