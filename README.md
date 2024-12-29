@@ -35,6 +35,10 @@ add future dev tools
 
 ## Building and running locally
 1. Navigate to branch and folder
-   ```shgit checkout -main```
-2. Run locally
-   ```sh npm run dev ```
+   ```sh
+   git checkout -main
+   ```
+3. Run locally
+   ```sh
+   npm run dev
+   ```
