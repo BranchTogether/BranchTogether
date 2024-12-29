@@ -16,3 +16,17 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pauliusmalcius@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> 
   <a href="https://github.com/pmalcius" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"> </a>
 </div>
+
+##Installation of tools
+1. Install vite
+'''sh npm install vite '''sh
+2. Install node.js
+'''sh npm install nodejs '''sh
+3. ...
+'''sh add future dev tools '''sh
+
+## Building and running locally
+1. Navigate to branch and folder
+   '''sh git checkout -main '''sh
+2. Run locally
+   '''sh npm run dev '''sh
