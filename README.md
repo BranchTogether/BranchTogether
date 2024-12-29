@@ -5,6 +5,6 @@
 <h1>Development Team<h1>
 <div>
   <h4>Daniel Jazowski</h4>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=djaz4738@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="[https://mail.google.com/mail/?view=cm&fs=1&to=djaz4738@gmail.com](https://github.com/Dj1178)" target="_blank"> <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" alt="Github"> </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=djaz4738@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://github.com/Dj1178" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"> </a>
   <h4>Paulius Malcius</h4>
 </div>
